@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ilk:home|Door43 (ilk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ilk|d43-ilk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ilk/archive/master.zip|d43-ilk.zip]]
+
+**Recent Changes**
+{{changes>ns = ilk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ilk|Ethnologue data]]
+
